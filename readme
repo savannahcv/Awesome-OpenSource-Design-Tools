@@ -1,0 +1,31 @@
+图形设计工具
+GIMP - 功能强大的 raster 图像编辑工具，支持图层、滤镜、蒙版等专业功能，可作为 Photoshop 替代方案。(Demo, Source Code) GPL-3.0 C
+Krita - 专注于数字绘画和插画的工具，支持多种画笔引擎、图层混合模式和动画制作。(Demo, Source Code) GPL-3.0 C++/Qt
+Paint.NET - 简单易用的图像编辑工具，适合快速调整图片、添加效果，支持插件扩展。(Source Code) MIT C#
+UI/UX 设计工具
+Penpot - 开源的矢量设计和原型工具，支持实时协作，兼容 Sketch 和 Figma 文件格式。(Demo, Source Code) MPL-2.0 Clojure/Docker
+Figma-Lite (社区版) - 轻量版开源 Figma 替代方案，支持基础矢量设计和简单原型（非官方社区项目）。(Source Code) MIT TypeScript
+Pencil - 专注于 UI 原型设计的工具，支持流程图、线框图和简单交互逻辑。(Source Code) GPL-2.0 JavaScript/Qt
+原型与线框图工具
+Wireflow - 极简的线框图工具，支持快速绘制页面流程和交互逻辑，导出为 PNG/PDF。(Demo, Source Code) MIT React
+Mockoon - 不仅是原型工具，还能模拟 API 响应，帮助设计和测试前后端交互。(Source Code) MIT Electron/Node.js
+Balsamiq Mockups (开源版) - 低保真线框图工具的开源版本，适合快速表达设计思路。(Source Code) GPL-3.0 Java
+图标与矢量设计
+Inkscape - 专业的矢量图形编辑工具，支持 SVG 格式，适合制作图标、LOGO 和矢量插图。(Demo, Source Code) GPL-3.0 C++/GTK
+Iconscout - 开源图标库管理工具，支持自定义图标集和批量导出。(Source Code) MIT Python
+Vectorian Giotto - 轻量级矢量动画工具，可制作简单的 SVG 动画和交互效果。(Source Code) Apache-2.0 JavaScript
+字体工具
+FontForge - 字体设计和编辑工具，支持创建自定义字体、修改现有字体，导出为 TTF/OTF 等格式。(Source Code) GPL-3.0 C
+Birdfont - 简单易用的字体设计工具，适合初学者创建图标字体或自定义文字。(Source Code) GPL-3.0 Vala/GTK
+Fontello - 图标字体生成工具，可组合多个图标集，导出为 Web 字体（WOFF/TTF）。(Source Code) MIT Node.js
+图片处理工具
+Darktable - 专业的 RAW 照片处理工具，支持非破坏性编辑、色彩校正和批量处理。(Source Code) GPL-3.0 C/C++
+RawTherapee - 开源 RAW 图像处理软件，提供丰富的调色参数和滤镜。(Source Code) GPL-3.0 C++
+ImageOptim-CLI - 命令行图片压缩工具，自动优化 PNG/JPG 等格式，减少文件体积。MIT Node.js
+反特征标记
+⚠ - 依赖外部专有服务（如部分云同步功能）
+🔒 - 需特定硬件支持（如 GPU 加速）
+外部链接
+设计资源社区：Open Design Library
+开源设计教程：DesignLab
+工具更新跟踪：Open Design Tools Watch
